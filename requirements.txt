@@ -4,7 +4,7 @@ TgCrypto==1.2.3
 
 # GET / POST network requests
 asyncio==3.4.3
-aiohttp==3.7.4
+aiohttp==3.8.5
 
 # scrapping tools [not used anywhere]
 beautifulsoup4==4.9.1
